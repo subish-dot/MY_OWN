@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 main branch is edited
 main branch is edited
 main branch is edited 2
+=======
+>>>>>>> parent of 0032ff7 (main is edited)
