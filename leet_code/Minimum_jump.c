@@ -2,7 +2,7 @@
 
 int main()
 {
-    int arr[]={1,2,3,2,1};
+    int arr[]={2,6,3,2,1};
     int size=sizeof(arr)/sizeof(arr[0]);
 
     int max=0;
